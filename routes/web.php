@@ -15,7 +15,7 @@
 
 Route::get('/', function () {
     return view('welcome');
-}); //welcome page
+}); 
 
 Route::get('/master', function () {
     return view('layout.master');
@@ -46,7 +46,7 @@ Route::get('/dd', function () {
     return view('pages.detailss');
 });
 
-
+//
 //
 //Route::get('/register', function () {
   //  return view('pages.register');
