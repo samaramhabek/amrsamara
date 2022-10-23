@@ -46,7 +46,7 @@ Route::get('/dd', function () {
     return view('pages.detailss');
 });
 
-//
+//moaz i miss you
 //
 //Route::get('/register', function () {
   //  return view('pages.register');
